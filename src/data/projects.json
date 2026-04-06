@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Full-Scale Parking System",
+    "description": "A comprehensive parking management platform with real-time slot tracking, booking system, and admin dashboard. Built with modern web technologies and deployed for production use in the UK.",
+    "tech": ["React", "Node.js", "MongoDB", "Express", "REST API"],
+    "category": "Web",
+    "featured": true,
+    "github": "#",
+    "live": "https://premier-parking.co.uk",
+    "image": "https://images.unsplash.com/photo-1573348722427-f1d6819fdf98?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Perfumes E-Commerce Store",
+    "description": "Custom Shopify store with integrated payment processing, inventory management, and automated workflows for a Canadian perfume brand.",
+    "tech": ["Shopify", "JavaScript", "REST API", "Payment Integration"],
+    "category": "Web",
+    "featured": false,
+    "github": "#",
+    "live": "https://shoppingperfumes.ca/",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Human Identification System",
+    "description": "AI-powered system using computer vision and deep learning for human identification. Implemented custom neural network architectures with PyTorch and OpenCV.",
+    "tech": ["Python", "PyTorch", "OpenCV", "Deep Learning"],
+    "category": "AI",
+    "featured": true,
+    "github": "#",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "NeoFood Store",
+    "description": "Full-featured food ordering and delivery platform with Shopify backend, custom theme development, and seamless checkout integration.",
+    "tech": ["Shopify", "JavaScript", "Node.js", "Custom Theme"],
+    "category": "Web",
+    "featured": false,
+    "github": "#",
+    "live": "https://neofood.ca/",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Classification Systems with Custom Neural Networks",
+    "description": "Built and trained custom neural network architectures from scratch for multi-class classification tasks. Achieved high accuracy with optimized hyperparameters.",
+    "tech": ["Python", "PyTorch", "NumPy", "Pandas", "ML"],
+    "category": "AI",
+    "featured": false,
+    "github": "#",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Skincare Website - Rejins Wellness",
+    "description": "Professional skincare brand website with product showcases, booking system, and custom e-commerce integration built for an international client.",
+    "tech": ["Shopify", "JavaScript", "CSS", "REST API"],
+    "category": "Web",
+    "featured": false,
+    "github": "#",
+    "live": "https://www.rejinswellness.com/",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "MongoDB Database Engine from Scratch",
+    "description": "Built a complete database management system in C++ implementing B-tree indexing, query parsing, CRUD operations, and file-based storage — understanding databases at the lowest level.",
+    "tech": ["C++", "Data Structures", "File I/O", "B-Trees"],
+    "category": "Backend",
+    "featured": false,
+    "github": "#",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "FAT Filesystem & File Sharing System",
+    "description": "Operating systems project implementing FAT filesystem from scratch, with network file sharing capabilities. Deep dive into OS internals and systems programming.",
+    "tech": ["C", "C++", "OS Concepts", "Networking"],
+    "category": "Backend",
+    "featured": false,
+    "github": "#",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 9,
+    "title": "Multiplayer Chess & Ludo",
+    "description": "Real-time multiplayer board games (Chess & Ludo) built in C++ with networking support, game state management, and an interactive terminal UI.",
+    "tech": ["C++", "Sockets", "Game Logic", "OOP"],
+    "category": "Backend",
+    "featured": false,
+    "github": "#",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Fullstack Airbnb & Management Systems",
+    "description": "Complete Airbnb clone with property listing, booking management, user authentication, reviews system, and admin dashboard — end-to-end full-stack development.",
+    "tech": ["React", "Node.js", "MongoDB", "Express", "JWT"],
+    "category": "Web",
+    "featured": false,
+    "github": "#",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&h=400&fit=crop"
+  }
+]
