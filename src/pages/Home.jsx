@@ -149,13 +149,7 @@ export default function Home() {
                 />
               </div>
               {/* Floating badges */}
-              <motion.div
-                className="absolute -top-4 -right-4 glass rounded-xl px-4 py-2 text-xs font-semibold text-cyan"
-                animate={{ y: [0, -8, 0] }}
-                transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
-              >
-                3.65 CGPA
-              </motion.div>
+              
               <motion.div
                 className="absolute -bottom-4 -left-4 glass rounded-xl px-4 py-2 text-xs font-semibold text-gold"
                 animate={{ y: [0, 8, 0] }}
